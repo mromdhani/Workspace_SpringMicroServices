@@ -1,0 +1,5 @@
+package tn.biat.ribbon;
+
+public class SayHelloConfiguration {
+
+}
