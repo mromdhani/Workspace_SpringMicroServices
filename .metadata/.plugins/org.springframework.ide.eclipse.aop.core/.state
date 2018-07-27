@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="demo-springcloud-ribbon-sayhello-client"/>
+<aop-project name="demo-springcloud-docker"/>
+<aop-project name="demo-springcloud-eureka-server"/>
+<aop-project name="demo-springcloud-ribbon-sayhello"/>
 <aop-project name="demo-springcloud-config-server-client"/>
+<aop-project name="demo-springcloud-eureka-client"/>
 <aop-project name="demo-springcloud-config-server"/>
 </aop-reference-model>
